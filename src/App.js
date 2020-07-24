@@ -28,6 +28,7 @@ class App extends Component {
   }
   
   render(){
+    // practicing git commit
     return (
       <div className="wrap">
         <div className="container">
